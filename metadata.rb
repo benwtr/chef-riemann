@@ -1,3 +1,4 @@
+name             "riemann"
 maintainer       "JJ Asghar"
 maintainer_email "jj.asghar@peopleadmin.com"
 license          "Apache 2.0"
